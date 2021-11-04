@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thegreatzach
+- 👀 I’m interested in Gnu/Linux, Python Development, Systemd, Webdevelopment.
+- 🌱 I’m currently learning systemd-nspawn, Nginx, Flask, Jinja2.
+- 💞️ I’m looking to collaborate on the arch-install script. Want to help with the systemd-boot instillation portion.
+- 📫 How to reach me zachthuemmel@gmail.com
